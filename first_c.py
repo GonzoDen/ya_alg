@@ -1,16 +1,6 @@
-"""n = input();
-#arr = list(map(int,input().split()))
-arr_n = [int(x) for x in input().split()]
-
-m = input();
-arr_m = [int(x) for x in input().split()]"""
-
 n = int(input()) 
-
 a = [int(x) for x in input().split()]
-
 m = int(input()) 
-
 b = [int(x) for x in input().split()]
 
 a_l = 0
