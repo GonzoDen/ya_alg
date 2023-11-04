@@ -5,10 +5,9 @@ b = [int(x) for x in input().split()]
 
 a_l = 0
 b_l = 0
-a_r = len(a)
-b_r = len(b)
+a_r = len(a)-1
+b_r = len(b)-1
 
-#f = [0 for _ in range(n+m)]
 f = []
 
 while (b_l <= b_r):
